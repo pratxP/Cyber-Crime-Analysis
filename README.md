@@ -78,7 +78,15 @@ With the rapid increase in digital adoption, cybercrimes have risen significantl
 ---
 
 ## **Visualizations**
-![Sample Visualization](visuals/sample_chart.png)
+![Screenshot 2024-12-20 085727](https://github.com/user-attachments/assets/d9e15057-3183-4507-bb52-7cd37152f30c)
+![Screenshot 2025-01-10 200917](https://github.com/user-attachments/assets/63741d39-0756-4a25-90ec-bf72a603e8dc)
+![Screenshot 2024-12-20 080831](https://github.com/user-attachments/assets/9f2514f6-e272-424f-a187-0b0f6c244224)
+![Screenshot 2024-12-20 080845](https://github.com/user-attachments/assets/9422f410-c1a0-4e09-a651-4410b00886e3)
+![Screenshot 2024-12-20 080852](https://github.com/user-attachments/assets/949a94f8-7486-427d-9484-682cf5e1babf)
+![Screenshot 2024-12-20 080859](https://github.com/user-attachments/assets/7ef184a8-8bf7-4992-872c-d2d5f9f576a9)
+![Screenshot 2024-12-20 080906](https://github.com/user-attachments/assets/1f3379e4-d4da-44b6-9a8a-992c76155f83)
+![Screenshot 2024-12-20 080918](https://github.com/user-attachments/assets/01fd9f61-518c-4fa0-9f1a-ddccfbd6da6e)
+
 
 ---
 
